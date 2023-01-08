@@ -1,21 +1,8 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
-<p align='center'>
-<a href="#"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
 Hey there 👋,
 
 I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
  
  ---
-
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
 
 ### My Digital Garden 🌱
 
@@ -33,12 +20,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
  
 </details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _237_
-
-<a href='https://twitter.com/csfinch'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg' />
-</a>
 
 <a href='https://twitter.com/csfinch'>
     csfinch
