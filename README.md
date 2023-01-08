@@ -1,58 +1,7 @@
-Hey there 👋,
-
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
- 
- ---
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
-[Latest Post 👉](https://waylonwalker.com/latest)
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
-<a href='https://twitter.com/csfinch'>
-    csfinch
-</a>
-
-Serial Entrepreneur who loves building #startups
-Love working in  #nodejs #JavaScript on new products for a better future
-Connect with me on LI https://t.co/UMhAREyKO8
-
-<h2></h2><a href='https://twitter.com/NoahKahenga'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279369050615951360/sD8W-fC5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/NoahKahenga'>
-    Jean-Luc Noah | Devs
-</a>
-
-Développeur web et désigner. Mon Instagram  : https://t.co/OG059zXD91 🌎Cliquez ici pour accéder à à ma chaîne 👇
-
-<h2></h2><a href='https://twitter.com/brianmmdev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1250997828379344899/GO6L94Yr_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/brianmmdev'>
-    Brian Morrison II 👨‍💻 #BlackLivesMatter
-</a>
-
-Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord: https://t.co/KlBCDY1rem • FB Gaming: https://t.co/sOJTKVIsxN
-
-<h2></h2><a href='https://twitter.com/Delta2315'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1166656388291907584/P-N8_Hbq_normal.png' />
-</a>
-
-<a href='https://twitter.com/Delta2315'>
-    Swastik Baranwal
-</a>
+### Hello World ?
+I am a fullstack software engineer from bangladesh- ? Working on multiple frontend and backend project using React and Nodejs
+- ? Learning design patterns in depth
+<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
+<br>## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
+<br>
