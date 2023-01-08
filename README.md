@@ -56,26 +56,3 @@ Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord:
 <a href='https://twitter.com/Delta2315'>
     Swastik Baranwal
 </a>
-
-A noob
-C | Modern C++ | Python | Go | V @v_language Contributor. 
-
-https://t.co/joOO2b4z88: https://t.co/9Yit97TiV2
-GitHub: https://t.co/GrVxzpgPZh
-Deviant Art: https://t.co/ZlF9PsNZR5
-
-<h2></h2><a href='https://twitter.com/SleekWebsiteLLC'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1253441454405562369/WNGORBXd_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/SleekWebsiteLLC'>
-    Daniel @ Sleek Websites
-</a>
-
-Hi, I'm Daniel - a freelance web developer. I am the owner of Sleek Websites. I tweet about computer programming, business, and productivity.
-
-<h2></h2>
-
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
