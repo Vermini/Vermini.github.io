@@ -45,6 +45,5 @@ I'm an ambitious Cybersecurity student with a strong foundation in IT and teleco
 ### 📫 Contact
 
 - **Email**: karol.mierzwinski2@gmail.com
-- **Phone**: +48 792 212 399
 
 Feel free to reach out to collaborate on projects, discuss cybersecurity topics, or connect professionally!
