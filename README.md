@@ -1,7 +1,50 @@
-### Hello World ?
-I am a fullstack software engineer from Cracow. Working on multiple frontend and backend project using Python
+# Karol Mierzwiński
 
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
-<br>## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
-<br>
+### 📜 About Me
+I'm an ambitious Cybersecurity student with a strong foundation in IT and telecommunications. My passion for cybersecurity drives me to continually improve my skills, especially through Capture The Flag (CTF) challenges. I thrive on solving complex problems and am dedicated to enhancing system security and computer systems.
+
+### 💼 Experience
+
+- **Freelance Web Admin, OLDHORSE, Katowice (2024)**
+  - Developed and currently administer an e-commerce site for a clothing retailer. This site was built using WordPress, where I manage updates and maintain custom plugins I developed. This hands-on work has deepened my skills in web management and troubleshooting.
+
+- **Intern, New Data Mining Systems Sp. z o.o., Kraków (07.2021 - 02.2022)**
+  - Built a desktop application for online screen streaming and recording as presentations. I independently managed the project using Electron.NET, gaining experience in application development, project management, and diverse IT areas.
+
+- **Intern, PetrolInform.Net, Kraków (10.2020 - 12.2020)**
+  - Gained technical experience in fiber optic network installation and troubleshooting. This role taught me practical problem-solving and critical thinking, especially in network connectivity.
+
+### 🎓 Education
+
+- **Bachelor’s Degree in Cybersecurity Engineering**  
+  AGH University of Science and Technology, Kraków  
+  (10.2022 - Present)
+
+- **IT Technician**  
+  School of Communication, Kraków  
+  (09.2018 - 04.2022)
+
+### 🛠️ Skills
+
+- **Programming Languages**: Python, C#, Java, C, Assembly, JavaScript, PHP, SQL, Bash
+- **Technologies**: Git, Linux, WordPress
+- **Cybersecurity Tools**: Burp Suite, Metasploit, Nmap, Wireshark
+- **Other Skills**: Team collaboration, project management, web administration
+
+### 🌐 Languages
+
+- **English**: C1 (Advanced)
+- **German**: A1 (Basic)
+
+### 🏆 Certifications
+
+- **Security Talent Masterclass** (06.2024)
+- **Java: From Basics to Expert** (08.2024)
+- **EE.08 and EE.09 Certifications** (09.2021 & 03.2022)
+
+### 📫 Contact
+
+- **Email**: karol.mierzwinski2@gmail.com
+- **Phone**: +48 792 212 399
+
+Feel free to reach out to collaborate on projects, discuss cybersecurity topics, or connect professionally!
